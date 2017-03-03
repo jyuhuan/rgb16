@@ -38,7 +38,8 @@ canvas { display:block; }
 }
 
 #hex {
-  width: 83px;
+  width: 87px;
+  padding-left: 13px;
 }
 
 button {
